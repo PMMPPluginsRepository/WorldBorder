@@ -1,0 +1,13 @@
+name: WorldBorder
+main: skh6075\WorldBorder\Loader
+author: skh6075
+version: 1.0.0
+api: 5.0.0
+
+src-namespace-prefix: skh6075\WorldBorder
+
+permissions:
+  command.worldborder:
+    default: op
+  wb.bypass:
+    default: op
